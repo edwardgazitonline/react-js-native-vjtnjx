@@ -1,0 +1,3 @@
+Redux is an open-source JavaScript library used to manage application state. React uses Redux for building the user interface. It was first introduced by Dan Abramov and Andrew Clark in 2015.
+
+https://www.javatpoint.com/react-redux

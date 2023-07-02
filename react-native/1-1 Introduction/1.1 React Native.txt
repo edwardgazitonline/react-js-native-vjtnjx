@@ -1,0 +1,44 @@
+React Native
+https://www.javatpoint.com/react-native-tutorial
+
+  React Native is a JavaScript framework used for developing a real, native mobile application for iOS and Android.
+
+  It uses only JavaScript to build a mobile application. 
+
+  It is like React, which uses native component rather than using web components as building blocks.
+
+  React Native is based on React,
+
+
+Prerequisite
+  Before learning React Native, you must have the knowledge of OOPs concept and JavaScript.
+
+
+What are React Native apps?
+  React Native apps are not web application.
+  They are running on a mobile device, and it does not load over the browser. It is also not a Hybrid app that builds over Ionic, Phone Gap, etc. that runs over WebView component. React Native apps are the real native app, the JavaScript code stays as JavaScript, and they run in some extra thread by the compiled app. The user interface and everything are compiled to native code.
+
+History
+  Facebook develops the React Native in 2013 for their internal project Hackathon. Later on, it was released publically in January 2015 as React.js, and in March 2015, Facebook announced that React Native is open and available on GitHub.
+
+
+Advantages of React Native
+There are several advantages of React Native for building mobile applications. Some of them are given below:
+
+  Cross-Platform Usage: Provide facility of "Learn once write everywhere",it works for both platform Android as well iOS devices.
+  
+  Class Performance: The code written in React Native are compiled into native code, which enables it for both operating systems as well as it functions in the same way on both the platforms.
+  JavaScript: The JavaScript knowledge is used to build native mobile apps.
+  
+  Community: The large community of React and React Native around helps us to find any answer we require.
+  
+  Hot Reloading: Making a few changes in the code of your app will be immediately visible during development. If business logic is changed, its reflection is live reloaded on screen.
+  
+  Improving with Time: Some features of iOS and Android are still not supported, and the community is always inventing the best practices.
+  
+  Native Components: We will need to write some platform specific code if we want to create native functionality which is not designed yet.
+  
+  Existence is Uncertain: As the Facebook develop this framework, its presence is uncertain since it keeps all the rights to kill off the project anytime. As the popularity of React Native rises, it is unlikely to happen.
+
+
+

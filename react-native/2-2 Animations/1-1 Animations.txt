@@ -1,0 +1,2 @@
+React Native Animations provide an extra effect and great user experience in the app. Animations convey physically believable motion in your interface.
+https://www.javatpoint.com/react-native-animation

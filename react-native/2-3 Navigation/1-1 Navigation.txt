@@ -1,0 +1,3 @@
+https://www.javatpoint.com/react-native-navigation
+
+React Native Navigation is used for managing the presentation, and transition between multiple screens. There are two types of navigation built in mobile applications. These are stack navigation and tabbed navigation patterns.

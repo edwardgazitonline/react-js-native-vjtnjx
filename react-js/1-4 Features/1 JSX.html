@@ -1,0 +1,88 @@
+https://stackblitz.com/edit/react-js-practice1
+
+
+JSX JavaScript Extension
+  All of the React components have a render function. The render function specifies the HTML output of a React component. 
+
+  JSX provides you to write HTML/XML-like structures (e.g., DOM-like tree structures)
+
+  Example
+    Here, we will write JSX syntax in JSX file and see the corresponding JavaScript code which transforms by preprocessor(babel).
+    JSX File
+    <div>Hello JavaTpoint</div>  
+
+    Corresponding Output
+    React.createElement("div", null, "Hello JavaTpoint");  
+
+
+
+  Nested Elements in JSX
+  App.jsx : Here, we use div as a container element which has three nested elements inside it.
+
+      import React, { Component } from 'react';  
+      class App extends Component{  
+        render(){  
+            return(  
+              <div>  
+                  <h1>JavaTpoint</h1>  
+                <h2>Training Institutes</h2>  
+                  <p>This website contains the best CS tutorials.</p>  
+              </div>  
+            );  
+        }  
+      }  
+      export default App;  
+
+
+Attributes
+  JSX uses camelcase naming convention for attributes rather than standard naming convention of HTML such as a class in HTML becomes className in JSX because the class is the reserved keyword in JavaScript. 
+  <p data-demoAttribute = "demo">This website contains the best CS tutorials.</p>  
+
+
+
+Comments
+  JSX allows us to use comments that begin with /* and ends with */ and wrapping them in curly braces {} just like in the case of JSX expressions. 
+   {/* This is a comment in JSX */}   
+
+
+Styling
+  React always recommends to use inline styles. To set inline styles, you need to use camelCase syntax. React automatically allows appending px after the number value on specific elements. 
+  import React, { Component } from 'react';  
+
+  class App extends Component{  
+    render(){  
+      var myStyle = {  
+          fontSize: 80,  
+          fontFamily: 'Courier',  
+          color: '#003300'  
+        }  
+        return (  
+          <div>  
+              <h1 style = {myStyle}>www.javatpoint.com</h1>  
+          </div>  
+        );  
+    }  
+  }  
+  export default App; 
+
+
+
+  NOTE: JSX cannot allow to use if-else statements. Instead of it, you can use conditional (ternary) expressions. It can be seen in the following example.
+      import React, { Component } from 'react';  
+    class App extends Component{  
+      render(){  
+          var i = 5;  
+          return (  
+            <div>  
+                <h1>{i == 1 ? 'True!' : 'False!'}</h1>  
+            </div>  
+          );  
+      }  
+    }  
+    export default App;  
+
+
+
+
+
+

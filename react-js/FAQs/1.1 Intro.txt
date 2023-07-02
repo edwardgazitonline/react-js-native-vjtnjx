@@ -1,0 +1,36 @@
+Ref Sites
+https://www.javatpoint.com/react-interview-questions
+
+
+What is React?
+  1.developed by Facebook in 2011
+  2. It follows the component-based approach for building reusable UI components, especially for single page application.
+  3. It is used for developing interactive view layer of web and mobile apps. 
+
+2 What are the features of React?
+  JSX
+  Components
+  One-way Data Binding
+  Virtual DOM
+  Simplicity
+  Performance
+
+
+ 3 What are the advantages of React?
+  The advantages of React are:
+  Easy to Learn and USe
+  Creating Dynamic Web Applications Becomes Easier
+  Reusable Components
+  Performance Enhancement
+  The Support of Handy Tools
+  Known to be SEO Friendly
+  The Benefit of Having JavaScript Library
+  Scope for Testing the Codes
+
+
+What are the limitations of React?
+  The limitations of React are:
+  The high pace of development
+  Poor Documentation
+  View Part
+  JSX as a barrier

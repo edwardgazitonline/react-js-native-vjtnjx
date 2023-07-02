@@ -1,0 +1,4 @@
+More Resources
+Congratulations! You built your first React Native app. But there’s more to learn: developer workflows, shipping to app stores, internationalization, security and more.
+
+https://reactnative.dev/docs/more-resources

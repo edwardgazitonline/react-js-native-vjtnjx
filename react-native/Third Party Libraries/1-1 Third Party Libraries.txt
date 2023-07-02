@@ -1,0 +1,18 @@
+The third party Library provides the native app features which are not available in React Native features. If we refer to React Native documentation, there are lots of features that are not available (such as maps). Due to this, we need to add third party libraries in our project. In this tutorial, we would learn how to add the third parties libraries in our app (adding third party icons). There are different sets of bundled Icon available. Some of them are listed below:
+
+https://www.javatpoint.com/react-native-third-party-libraries
+
+    AntDesign
+    Entypo
+    EvilIcons
+    Feather
+    FontAwesome
+    FontAwesome 5
+    Foundation
+    Ionicons
+    MaterialIcons
+    MaterialCommunityIcons
+    Octicons
+    Zocial
+    SimpleLineIcons
+    

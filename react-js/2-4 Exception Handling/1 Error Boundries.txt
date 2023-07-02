@@ -1,0 +1,3 @@
+React 16 introduces a new concept to handle the errors by using the error boundaries. Now, if any JavaScript error found in a part of the UI, it does not break the whole app.
+
+https://www.javatpoint.com/react-error-boundaries

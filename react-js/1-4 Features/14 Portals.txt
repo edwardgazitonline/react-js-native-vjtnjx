@@ -1,0 +1,5 @@
+Portals
+A React portal provides a way to render an element outside of its component hierarchy, i.e., in a separate component.
+
+https://www.javatpoint.com/react-portals
+

@@ -1,0 +1,28 @@
+Core Components and Native Components
+  https://reactnative.dev/docs/intro-react-native-components
+
+Views and mobile development
+  In Android and iOS development, a view is the basic building block of UI: a small rectangular element on the screen which can be used to display text, images, or respond to user input. 
+
+1 Native Components
+  In Android development, you write views in Kotlin or Java; in iOS development, you use Swift or Objective-C. With React Native, you can invoke these views with JavaScript using React components. At runtime, React Native creates the corresponding Android and iOS views for those components. Because React Native components are backed by the same views as Android and iOS, React Native apps look, feel, and perform like any other apps. We call these platform-backed components Native Components.
+
+
+    we also have a thriving ecosystem of these community-contributed components. Check out Native Directory to find what the community has been creating.
+    https://reactnative.directory/
+
+2 Core Components
+  React Native has many Core Components for everything from form controls to activity indicators.
+  https://reactnative.dev/docs/components-and-apis
+
+  REACT NATIVE UI COMPONENT	    ANDROID VIEW	    IOS VIEW	    WEB ANALOG	              DESCRIPTION
+  <View>                        <ViewGroup>       <UIView>      A non-scrollling <div>    A container that supports layout with                                                                                             flexbox, style, some touch handling, and                                                                                          accessibility controls
+
+  <Text>	                      <TextView>	      <UITextView>	  <p>
+
+  <Image>	                      <ImageView>	      <UIImageView>	  <img>
+
+  <ScrollView>                	<ScrollView>    	<UIScrollView>	<div>
+  
+  <TextInput>	                  <EditText>	      <UITextField>	  <input type="text">
+

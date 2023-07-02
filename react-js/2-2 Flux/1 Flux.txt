@@ -1,0 +1,5 @@
+https://www.javatpoint.com/react-flux-concept
+https://www.javatpoint.com/react-flux-vs-mvc
+
+React Flux Concept
+Flux is an application architecture that Facebook uses internally for building the client-side web application with React. It is not a library nor a framework. It is neither a library nor a framework. It is a kind of architecture that complements React as view and follows the concept of Unidirectional Data Flow model. It is useful when the project has dynamic data, and we need to keep the data updated in an effective manner. It reduces the runtime errors.

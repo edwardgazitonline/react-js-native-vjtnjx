@@ -1,0 +1,5 @@
+https://www.javatpoint.com/react-code-splitting
+
+React Code Splitting
+  The React app bundled their files using tools like Webpack or Browserfy. Bundling is a process which takes multiple files and merges them into a single file, which is called a bundle. The bundle is responsible for loading an entire app at once on the webpage. We can understand it from the below example.
+

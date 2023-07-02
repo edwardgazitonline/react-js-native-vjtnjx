@@ -1,0 +1,28 @@
+1 Introduction
+https://www.javatpoint.com/reactjs-tutorial
+
+  It is an open-source, component-based front end library which is responsible only for the view layer of the application.
+
+  The main objective of ReactJS is to develop User Interfaces (UI) that improves the speed of the apps. 
+
+  It uses virtual DOM (JavaScript object), which improves the performance of the app.
+
+  The JavaScript virtual DOM is faster than the regular DOM. 
+
+  We can use ReactJS on the client and server-side as well as with other frameworks. It uses component and data patterns that improve readability and helps to maintain larger apps.
+
+  It was created by Jordan Walke, who was a software engineer at Facebook. 
+
+  Today, most of the websites are built using MVC (model view controller) architecture. In MVC architecture, React is the 'V' which stands for view, whereas the architecture is provided by the Redux or Flux.
+
+  The virtual DOM works fast as it only changes individual DOM elements instead of reloading complete DOM every time.
+
+
+ 2 Why React
+
+  The previous frameworks follow the traditional data flow structure, which uses the DOM (Document Object Model). 
+
+  when any modifications were done, then each time a new DOM is created for the same page. This repeated creation of DOM makes unnecessary memory wastage and reduces the performance of the application.
+
+  The React Virtual DOM exists entirely in memory and is a representation of the web browser's DOM
+

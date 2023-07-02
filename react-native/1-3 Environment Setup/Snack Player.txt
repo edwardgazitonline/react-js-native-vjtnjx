@@ -1,0 +1,5 @@
+Snack Player
+   Snack Player. It’s a handy tool created by Expo to embed and run React Native projects and share how they render in platforms like Android and iOS.
+   https://reactnative.dev/docs/getting-started
+
+   
